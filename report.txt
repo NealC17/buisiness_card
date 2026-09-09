@@ -1,0 +1,52 @@
+Annotated LED as D16.
+Annotated LED as D4.
+Annotated LED as D5.
+Annotated LED as D6.
+Annotated LED as D7.
+Annotated LED as D8.
+Annotated LED as D9.
+Annotated LED as D10.
+Annotated LED as D11.
+Annotated LED as D12.
+Annotated LED as D13.
+Annotated LED as D14.
+Annotated LED as D15.
+Annotated LED as D3.
+Annotated  as J1.
+Annotated DMN2991UDA-7B (unit B) as Q1B.
+Annotated DMN2991UDA-7B (unit B) as Q2B.
+Annotated DMN2991UDA-7B (unit A) as Q1A.
+Annotated DMN2991UDA-7B (unit A) as Q2A.
+Annotated 1M as R1.
+Annotated 1M as R2.
+Annotated 2.2M as R_cap_button1.
+Annotated 2.2M as R_cap_button2.
+Annotated STM32C011F4Ux as U1.
+Annotated ME2107A33M5G as U2.
+Annotated ST25DV04K-IER8C3 as U3.
+Annotated  as AE1.
+Annotated GND as #PWR02.
+Annotated GND as #PWR03.
+Annotated GND as #PWR04.
+Annotated GND as #PWR05.
+Annotated +3V3 as #PWR06.
+Annotated GND as #PWR07.
+Annotated +3V3 as #PWR08.
+Annotated GND as #PWR09.
+Annotated GND as #PWR010.
+Annotated +3V3 as #PWR011.
+Annotated GND as #PWR012.
+Annotated GND as #PWR013.
+Annotated GND as #PWR01.
+Annotated C as C1.
+Annotated C as C2.
+Annotated C as C3.
+Annotated C as C4.
+Annotated C as C5.
+Annotated C as C6.
+Annotated C as C_tune1.
+Annotated  as CAP_BUTTON_1.
+Annotated  as CAP_BUTTON_2.
+Annotated LED as D1.
+Annotated LED as D2.
+Annotation complete.

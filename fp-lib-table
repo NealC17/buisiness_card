@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "NFC_Antennas") (type "KiCad") (uri "${KIPRJMOD}/scripts/NFC_Antennas.pretty") (options "") (descr ""))
+	(lib (name "my_custom_lib") (type "KiCad") (uri "${KIPRJMOD}/my_custom_lib.pretty") (options "") (descr ""))
+)

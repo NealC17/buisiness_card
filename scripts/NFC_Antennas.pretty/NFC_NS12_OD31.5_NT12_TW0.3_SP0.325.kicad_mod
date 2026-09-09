@@ -1,0 +1,1480 @@
+(footprint "NFC_NS12_OD31.5_NT12_TW0.3_SP0.325"
+  (version 20240108)
+  (generator "python_nfc_coil_generator")
+  (layer "F.Cu")
+  (attr board_only exclude_from_pos_files exclude_from_bom)
+
+  (fp_text reference "AE1"
+    (at 0 -2)
+    (layer "F.SilkS")
+    (effects
+      (font
+        (size 1 1)
+        (thickness 0.15)
+      )
+    )
+  )
+
+  (fp_text value "NFC_NS12_OD31.5_NT12_TW0.3_SP0.325"
+    (at 0 2)
+    (layer "F.Fab")
+    (effects
+      (font
+        (size 1 1)
+        (thickness 0.15)
+      )
+    )
+  )
+
+  (fp_line
+    (start 16.150308 0.000000)
+    (end 13.986577 8.075154)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 13.986577 8.075154)
+    (end 8.075154 13.986577)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 8.075154 13.986577)
+    (end 0.000000 16.150308)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 0.000000 16.150308)
+    (end -8.075154 13.986577)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -8.075154 13.986577)
+    (end -13.986577 8.075154)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -13.986577 8.075154)
+    (end -16.150308 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -16.150308 0.000000)
+    (end -13.986577 -8.075154)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -13.986577 -8.075154)
+    (end -8.075154 -13.986577)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -8.075154 -13.986577)
+    (end -0.000000 -16.150308)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -0.000000 -16.150308)
+    (end 8.075154 -13.986577)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 8.075154 -13.986577)
+    (end 13.986577 -8.075154)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 13.986577 -8.075154)
+    (end 15.503261 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 15.503261 0.000000)
+    (end 13.426218 7.751630)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 13.426218 7.751630)
+    (end 7.751630 13.426218)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 7.751630 13.426218)
+    (end 0.000000 15.503261)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 0.000000 15.503261)
+    (end -7.751630 13.426218)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -7.751630 13.426218)
+    (end -13.426218 7.751630)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -13.426218 7.751630)
+    (end -15.503261 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -15.503261 0.000000)
+    (end -13.426218 -7.751630)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -13.426218 -7.751630)
+    (end -7.751630 -13.426218)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -7.751630 -13.426218)
+    (end -0.000000 -15.503261)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -0.000000 -15.503261)
+    (end 7.751630 -13.426218)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 7.751630 -13.426218)
+    (end 13.426218 -7.751630)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 13.426218 -7.751630)
+    (end 14.856213 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 14.856213 0.000000)
+    (end 12.865858 7.428107)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 12.865858 7.428107)
+    (end 7.428107 12.865858)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 7.428107 12.865858)
+    (end 0.000000 14.856213)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 0.000000 14.856213)
+    (end -7.428107 12.865858)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -7.428107 12.865858)
+    (end -12.865858 7.428107)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -12.865858 7.428107)
+    (end -14.856213 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -14.856213 0.000000)
+    (end -12.865858 -7.428107)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -12.865858 -7.428107)
+    (end -7.428107 -12.865858)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -7.428107 -12.865858)
+    (end -0.000000 -14.856213)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -0.000000 -14.856213)
+    (end 7.428107 -12.865858)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 7.428107 -12.865858)
+    (end 12.865858 -7.428107)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 12.865858 -7.428107)
+    (end 14.209166 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 14.209166 0.000000)
+    (end 12.305498 7.104583)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 12.305498 7.104583)
+    (end 7.104583 12.305498)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 7.104583 12.305498)
+    (end 0.000000 14.209166)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 0.000000 14.209166)
+    (end -7.104583 12.305498)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -7.104583 12.305498)
+    (end -12.305498 7.104583)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -12.305498 7.104583)
+    (end -14.209166 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -14.209166 0.000000)
+    (end -12.305498 -7.104583)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -12.305498 -7.104583)
+    (end -7.104583 -12.305498)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -7.104583 -12.305498)
+    (end -0.000000 -14.209166)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -0.000000 -14.209166)
+    (end 7.104583 -12.305498)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 7.104583 -12.305498)
+    (end 12.305498 -7.104583)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 12.305498 -7.104583)
+    (end 13.562118 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 13.562118 0.000000)
+    (end 11.745139 6.781059)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 11.745139 6.781059)
+    (end 6.781059 11.745139)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 6.781059 11.745139)
+    (end 0.000000 13.562118)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 0.000000 13.562118)
+    (end -6.781059 11.745139)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -6.781059 11.745139)
+    (end -11.745139 6.781059)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -11.745139 6.781059)
+    (end -13.562118 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -13.562118 0.000000)
+    (end -11.745139 -6.781059)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -11.745139 -6.781059)
+    (end -6.781059 -11.745139)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -6.781059 -11.745139)
+    (end -0.000000 -13.562118)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -0.000000 -13.562118)
+    (end 6.781059 -11.745139)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 6.781059 -11.745139)
+    (end 11.745139 -6.781059)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 11.745139 -6.781059)
+    (end 12.915070 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 12.915070 0.000000)
+    (end 11.184779 6.457535)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 11.184779 6.457535)
+    (end 6.457535 11.184779)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 6.457535 11.184779)
+    (end 0.000000 12.915070)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 0.000000 12.915070)
+    (end -6.457535 11.184779)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -6.457535 11.184779)
+    (end -11.184779 6.457535)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -11.184779 6.457535)
+    (end -12.915070 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -12.915070 0.000000)
+    (end -11.184779 -6.457535)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -11.184779 -6.457535)
+    (end -6.457535 -11.184779)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -6.457535 -11.184779)
+    (end -0.000000 -12.915070)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -0.000000 -12.915070)
+    (end 6.457535 -11.184779)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 6.457535 -11.184779)
+    (end 11.184779 -6.457535)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 11.184779 -6.457535)
+    (end 12.268023 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 12.268023 0.000000)
+    (end 10.624419 6.134011)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 10.624419 6.134011)
+    (end 6.134011 10.624419)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 6.134011 10.624419)
+    (end 0.000000 12.268023)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 0.000000 12.268023)
+    (end -6.134011 10.624419)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -6.134011 10.624419)
+    (end -10.624419 6.134011)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -10.624419 6.134011)
+    (end -12.268023 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -12.268023 0.000000)
+    (end -10.624419 -6.134011)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -10.624419 -6.134011)
+    (end -6.134011 -10.624419)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -6.134011 -10.624419)
+    (end -0.000000 -12.268023)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -0.000000 -12.268023)
+    (end 6.134011 -10.624419)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 6.134011 -10.624419)
+    (end 10.624419 -6.134011)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 10.624419 -6.134011)
+    (end 11.620975 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 11.620975 0.000000)
+    (end 10.064060 5.810488)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 10.064060 5.810488)
+    (end 5.810488 10.064060)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 5.810488 10.064060)
+    (end 0.000000 11.620975)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 0.000000 11.620975)
+    (end -5.810488 10.064060)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -5.810488 10.064060)
+    (end -10.064060 5.810488)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -10.064060 5.810488)
+    (end -11.620975 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -11.620975 0.000000)
+    (end -10.064060 -5.810488)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -10.064060 -5.810488)
+    (end -5.810488 -10.064060)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -5.810488 -10.064060)
+    (end -0.000000 -11.620975)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -0.000000 -11.620975)
+    (end 5.810488 -10.064060)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 5.810488 -10.064060)
+    (end 10.064060 -5.810488)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 10.064060 -5.810488)
+    (end 10.973928 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 10.973928 0.000000)
+    (end 9.503700 5.486964)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 9.503700 5.486964)
+    (end 5.486964 9.503700)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 5.486964 9.503700)
+    (end 0.000000 10.973928)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 0.000000 10.973928)
+    (end -5.486964 9.503700)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -5.486964 9.503700)
+    (end -9.503700 5.486964)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -9.503700 5.486964)
+    (end -10.973928 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -10.973928 0.000000)
+    (end -9.503700 -5.486964)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -9.503700 -5.486964)
+    (end -5.486964 -9.503700)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -5.486964 -9.503700)
+    (end -0.000000 -10.973928)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -0.000000 -10.973928)
+    (end 5.486964 -9.503700)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 5.486964 -9.503700)
+    (end 9.503700 -5.486964)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 9.503700 -5.486964)
+    (end 10.326880 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 10.326880 0.000000)
+    (end 8.943340 5.163440)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 8.943340 5.163440)
+    (end 5.163440 8.943340)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 5.163440 8.943340)
+    (end 0.000000 10.326880)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 0.000000 10.326880)
+    (end -5.163440 8.943340)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -5.163440 8.943340)
+    (end -8.943340 5.163440)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -8.943340 5.163440)
+    (end -10.326880 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -10.326880 0.000000)
+    (end -8.943340 -5.163440)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -8.943340 -5.163440)
+    (end -5.163440 -8.943340)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -5.163440 -8.943340)
+    (end -0.000000 -10.326880)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -0.000000 -10.326880)
+    (end 5.163440 -8.943340)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 5.163440 -8.943340)
+    (end 8.943340 -5.163440)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 8.943340 -5.163440)
+    (end 9.679832 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 9.679832 0.000000)
+    (end 8.382981 4.839916)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 8.382981 4.839916)
+    (end 4.839916 8.382981)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 4.839916 8.382981)
+    (end 0.000000 9.679832)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 0.000000 9.679832)
+    (end -4.839916 8.382981)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -4.839916 8.382981)
+    (end -8.382981 4.839916)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -8.382981 4.839916)
+    (end -9.679832 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -9.679832 0.000000)
+    (end -8.382981 -4.839916)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -8.382981 -4.839916)
+    (end -4.839916 -8.382981)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -4.839916 -8.382981)
+    (end -0.000000 -9.679832)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -0.000000 -9.679832)
+    (end 4.839916 -8.382981)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 4.839916 -8.382981)
+    (end 8.382981 -4.839916)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 8.382981 -4.839916)
+    (end 9.032785 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 9.032785 0.000000)
+    (end 7.822621 4.516392)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 7.822621 4.516392)
+    (end 4.516392 7.822621)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 4.516392 7.822621)
+    (end 0.000000 9.032785)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 0.000000 9.032785)
+    (end -4.516392 7.822621)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -4.516392 7.822621)
+    (end -7.822621 4.516392)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -7.822621 4.516392)
+    (end -9.032785 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -9.032785 0.000000)
+    (end -7.822621 -4.516392)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -7.822621 -4.516392)
+    (end -4.516392 -7.822621)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -4.516392 -7.822621)
+    (end -0.000000 -9.032785)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start -0.000000 -9.032785)
+    (end 4.516392 -7.822621)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 4.516392 -7.822621)
+    (end 7.822621 -4.516392)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (fp_line
+    (start 7.822621 -4.516392)
+    (end 8.385737 0.000000)
+    (stroke
+      (width 0.300000)
+      (type solid)
+    )
+    (layer "F.Cu")
+  )
+
+  (pad "1" smd circle
+    (at 16.150308 0.000000)
+    (size 0.800000 0.800000)
+    (layers "F.Cu" "F.Mask")
+  )
+
+  (pad "2" smd circle
+    (at 8.385737 0.000000)
+    (size 0.800000 0.800000)
+    (layers "F.Cu" "F.Mask")
+  )
+)
